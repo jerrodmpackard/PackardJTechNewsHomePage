@@ -1,0 +1,69 @@
+@font-face {
+    font-family: Inter;
+    src: url(../assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+.body {
+    font-family: Inter;
+}
+
+.darkBlueBG {
+    background-color: hsl(240, 100%, 5%);
+}
+
+.orangeText {
+    color: hsl(35, 77%, 62%);
+}
+
+.whiteText {
+    color: white;
+}
+
+.textSize15px {
+    font-size: 15px;
+}
+
+.imgSize {
+    width: 100px;
+}
+
+.orangeButton {
+    background-color: hsl(5, 85%, 63%);
+    border: none;
+}
+
+.orangeButton:hover {
+    background-color: hsl(240, 100%, 5%);
+}
+
+.fontWeight400 {
+    font-weight: 400;
+}
+
+.fontWeight700 {
+    font-weight: 700;
+}
+
+.fontWeight800 {
+    font-weight: 800;
+}
+
+.marginBottom {
+    margin-bottom: 33px;
+}
+
+a:hover {
+    color: hsl(5, 85%, 63%);
+}
+
+h5:hover {
+    color: hsl(35, 77%, 62%);
+}
+
+.textColorGray {
+    color: hsl(233, 8%, 79%);
+}
+
+.textSize64px {
+    font-size: 64px;
+}
