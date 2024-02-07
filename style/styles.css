@@ -32,6 +32,8 @@
     background-color: hsl(5, 85%, 63%);
     border: none;
     letter-spacing: 4px;
+    width: 185px;
+    height: 48px;
 }
 
 .orangeButton:hover {
@@ -67,10 +69,18 @@ h5:hover {
     color: hsl(233, 8%, 79%);
 }
 
+.textColorDarkBlue {
+    color: hsl(236, 13%, 42%);
+}
+
 .textSize64px {
     font-size: 64px;
 }
 
 #redText:hover {
     color: hsl(5, 85%, 63%);
+}
+
+.containerMax {
+    max-width: 1110px !important;
 }
